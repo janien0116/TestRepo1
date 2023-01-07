@@ -1,4 +1,4 @@
-# Project Title 
+# Budget Template Project
 
 Simple overview of use/purpose.
 
